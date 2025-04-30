@@ -45,11 +45,11 @@
 
 ## Output:
 
-![Screenshot 2025-04-30 105256](https://github.com/user-attachments/assets/4ae2fde2-a3d9-4fcf-a6f1-0ab60dc119d6)
+![Screenshot 2025-04-30 105256](https://github.com/user-attachments/assets/f17659ce-dd84-456b-a12f-400b8b9880bb)
 
 
-### Name:
-### Register Number:
+### Name: SRUTHI A
+### Register Number: 212224240162
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
